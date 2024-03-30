@@ -1,0 +1,19 @@
+Frozen Mocha Blended recipe:
+-----------------------------
+
+# Description: Standard Frozen Mocha Blended
+
+# Ingredients:
+1. 1 oz espresso
+2. 1 cup almond milk
+3. Blender
+4. Optional sweetner
+5. Ice cubes
+
+# Steps:
+1. Prepare espresso shot and pour into mug when ready.
+2. Stir in sweetner (optional)
+3. Place ice , milk, espresso, chocolate sauce in a blender. 
+   Start at low speed and then high speed for 30 sec.
+4. Pour blended mixture into 16oz glass.
+5. Top with whipped cream and chocolate shavings.
