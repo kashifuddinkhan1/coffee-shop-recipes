@@ -1,2 +1,17 @@
 Caffe-Latte recipe:
 ------------------
+
+# Description: Standard Caffe Latte
+
+# Ingredients:
+1. 1 oz espresso
+2. 1 cup almond milk
+3. Milk frother
+4. Optional sweetner
+
+# Steps to make coffee:
+1. Prepare espresso shot and pour into mug when ready.
+2. Stir in sweetner (optional)
+3. Steam and froth milk until light layer of foam.
+4. Gently pour the milk while holding back the foam.
+5. Top with thin layer of foam remaining in the container.
