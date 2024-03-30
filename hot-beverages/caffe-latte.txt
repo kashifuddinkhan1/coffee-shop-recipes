@@ -9,7 +9,7 @@ Caffe-Latte recipe:
 3. Milk frother
 4. Optional sweetner
 
-# Steps:
+# Steps to make coffee:
 1. Prepare espresso shot and pour into mug when ready.
 2. Stir in sweetner (optional)
 3. Steam and froth milk until light layer of foam.
