@@ -1,2 +1,2 @@
-Caffe-latte recipe
+Caffe-Latte recipe:
 ------------------
