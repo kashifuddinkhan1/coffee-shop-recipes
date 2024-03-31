@@ -1,11 +1,11 @@
 Caffe-Latte recipe:
 ------------------
 
-# Description: Standard Caffe Latte
+# Description: Standard Caffe Latte, pairs with almond croissant.
 
 # Ingredients:
 1. 1 oz espresso
-2. 1 cup 2% almond milk
+2. 1 cup 4% almond milk
 3. Milk frother
 4. Optional sweetner
 
