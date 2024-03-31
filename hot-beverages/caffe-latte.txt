@@ -5,7 +5,7 @@ Caffe-Latte recipe:
 
 # Ingredients:
 1. 1 oz espresso
-2. 1 cup almond milk
+2. 1 cup 2% milk
 3. Milk frother
 4. Optional sweetner
 
